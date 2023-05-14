@@ -1,4 +1,4 @@
-# Neural Cellular Automata Can Respond to Signals
+## Neural Cellular Automata Can Respond to Signals
 ### James Stovold
 ### May 2023
 
